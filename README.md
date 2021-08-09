@@ -1,6 +1,6 @@
 # real_estate_app
 
-A new Flutter project.
+A new Flutter project. Inspired by https://www.youtube.com/watch?v=XOBZYosTgFA
 
 ## Getting Started
 
